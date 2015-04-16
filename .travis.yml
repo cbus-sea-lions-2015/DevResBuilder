@@ -7,3 +7,5 @@ before_script:
   - bundle exec rake db:create
   - bundle exec rake db:migrate
 script: bundle exec rspec
+notifications:
+  slack: cbus-sea-lions-2015:G1qbUhgnQUs2vtWqe8Wk9uNc
