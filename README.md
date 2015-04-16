@@ -1,6 +1,8 @@
 # DevResBuilder
 Build yo dev resume! Brought to you by The Architects.
 
+[![Coverage Status](https://coveralls.io/repos/cbus-sea-lions-2015/DevResBuilder/badge.svg)](https://coveralls.io/r/cbus-sea-lions-2015/DevResBuilder)
+
 [Jonathan Roger](https://github.com/jroger2908) | [Mary Baylis](https://github.com/MaryCBaylis) | [Chris Singer](https://github.com/secade) | [Jan Dennison](https://github.com/jannypie)
 
 The dev community often focuses less on traditional resumes and more on GitHub activity and project experience. However, HR departments and recruiters are still oriented towards the formal resume model. And look, searching for a job is a hard ass thing in general - juggling different information and audiences shouldn't be part of it. 
