@@ -26,6 +26,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Unicorn as the app server
 # gem 'unicorn'
 
+gem 'coveralls', require: false
+
 group :assets do
 
   gem 'uglifier', '>= 1.3.0'
